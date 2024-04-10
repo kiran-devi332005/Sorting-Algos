@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DS___DAA",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DS___DAA::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DS___DAA-Debug-4b889243697954487ef9.json",
+					"name" : "DS___DAA",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bubble_sorting::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bubble_sorting-Debug-08fefcdbd0196d3d395f.json",
+					"name" : "bubble_sorting",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bubble_sorting_v2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bubble_sorting_v2-Debug-3a1819ee8c4e5dbf19a8.json",
+					"name" : "bubble_sorting_v2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bubble_v2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bubble_v2-Debug-216f7562af9cfabe70ba.json",
+					"name" : "bubble_v2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "selection_sort_v1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-selection_sort_v1-Debug-15194a6e27149eda5333.json",
+					"name" : "selection_sort_v1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/Learning/DS & DAA/cmake-build-debug",
+		"source" : "F:/Learning/DS & DAA"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
